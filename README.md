@@ -5,7 +5,8 @@
 * Attributes: 13개
   - Champion: (Jarvan IV, Sett, Modekaiser, Zac, Malphite, etc.)
   - Lane: (Top, Jungle, Mid, Bot, Support)
-  - Team: (Red, Blue) - Win-Lose: (Win, Lose)
+  - Team: (Red, Blue) 
+  - Win-Lose: (Win, Lose)
   - Playing Time, Kill, Death, Assist, KDA((Kill+Assist)/Death) //Death가 0일시 (KIll+Assist)*1.2
   - Damage, DPM(Damage Per Minute), CS(Creep Score), CS per Min
  
